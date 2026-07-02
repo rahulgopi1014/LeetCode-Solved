@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/rahulgopi1014/LeetCode-Solved/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rahulgopi1014/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulgopi1014/LeetCode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/rahulgopi1014/LeetCode-Solved/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rahulgopi1014/LeetCode-Solved/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulgopi1014/LeetCode-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
